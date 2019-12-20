@@ -1,0 +1,57 @@
+
+
+/*=======================================
+Template Design By MarkUps  
+Author URI : http://www.markups.io/
+========================================*/
+
+.vj-primary-btn:hover,
+.vj-primary-btn:focus,
+.vj-filter-link:hover,
+.vj-filter-imglink:hover,
+.vj-filter-link:focus,
+.vj-filter-imglink:focus,
+.vj-simplefilter li:hover,
+.vj-simplefilter li.active,
+.vj-copy-right a:hover,
+.vj-copy-right a:focus {
+	color: #37c6f5;
+}
+
+.vj-send-msg-btn:hover,
+.vj-send-msg-btn:focus,
+.vj-social-media a:hover,
+.vj-social-media a:focus {
+	border: 1px solid #37c6f5;
+	color: #37c6f5;
+}
+
+.vj-testimonial-slide .slick-dots li button:hover,
+.vj-testimonial-slide .slick-dots li button:focus,
+.vj-testimonial-slide .slick-dots li.slick-active button,
+.vj-resume-btn:hover,
+.vj-resume-btn:focus,
+.vj-header-dot,
+.vj-filter-item-content,
+.vj-contact-top-single .vj-icon,
+.vj-skill-progress-bar .vj-pro-bar,
+#vj-featured-slider,
+#vj-header.vj-fixed-nav {
+	background-color: #37c6f5;
+}
+
+.vj-contact-form .form-control:focus {
+	border: 1px solid #37c6f5;    
+} 
+
+.vj-resume-btn,
+.vj-service-icon-box {
+	border: 2px solid #37c6f5;
+	color: #37c6f5;
+}
+
+
+.vj-pro-bar .proggress {
+	background-color: #37c6f5 !important;
+}
+
